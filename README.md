@@ -1,7 +1,9 @@
 # Michael Joseph S. Lee's Master's Thesis Repository
 
 ## Description
-This is a repository for Michael Joseph S. Lee's master's thesis.  Note that this repository by itself does not contain everything—some code is contained in other repositories.  See the "Contents" section of this README for more details.
+This is a repository for Michael Joseph S. Lee's master's thesis.
+
+Note that this repository by itself does not contain everything—some code is contained in other repositories.  See the "Contents" section of this README for more details.
 
 ## Contents
 - **``Code/``** - Contains the code I used in my thesis
