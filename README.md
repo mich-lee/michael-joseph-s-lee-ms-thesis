@@ -12,7 +12,7 @@ This is a repository for Michael Joseph S. Lee's master's thesis.
   - **``Code/Holotorch Experiment/``** - Contains a link (in ``Code/Holotorch Experiment/README.md``) to the ``SW-DORT-Research-Code`` repository, which contains the code that I used to perform the experiment in the "Holotorch Experiment" chapter of my thesis
     - The ``SW-DORT-Research-Code`` repository can be found at https://github.com/mich-lee/SW-DORT-Research-Code/
     - The ``SW-DORT-Research-Code`` repository requires the repository at https://github.com/mich-lee/holofork
-      - Download ``holofork`` repository and have it as the ``holotorch-lib`` folder in the downloaded ``SW-DORT-Research-Code`` repository
+      - Download ``holofork`` repository (specifically Commit 16772c500acd761ab7756767b4167888257249d2) and have it as the ``holotorch-lib`` folder in the downloaded ``SW-DORT-Research-Code`` repository
     - The ``THESIS EXPERIMENTS`` folder in the ``SW-DORT-Research-Code`` repository contains code that I used to generate and analyze data for the experiment in the "Holotorch Experiment" chapter of my thesis
       - ``SW-DORT-Research-Code/THESIS EXPERIMENTS/Generate_Data (aberrating layer 7mm in front of scatterer plane).py`` - Generates data
         - This script will generate a file containing data.
