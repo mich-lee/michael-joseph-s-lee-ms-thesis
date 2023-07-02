@@ -10,7 +10,7 @@ This is a repository for Michael Joseph S. Lee's master's thesis.
   - **``Code/DORT Background/``** - Contains the MATLAB scripts that I used to make the figures demonstrating DORT in the "DORT Background" chapter of my thesis
   - **``Code/MATLAB Simulations/``** - Contains the MATLAB scripts that I used to do the experiments in the "MATLAB Simulations" chapter of my thesis
   - **``Code/Imaging Through Aberrating Media Simulation/``** - Contains a link (in ``Code/Imaging Through Aberrating Media Simulation/README.md``) to the ``SW-DORT-Research-Code`` repository, which contains the code that I used to perform the experiment in the "Imaging Through Aberrating Media Simulation" chapter of my thesis
-    - The ``SW-DORT-Research-Code`` repository can be found at https://github.com/mich-lee/SW-DORT-Research-Code/ .  Make sure to use Commit 09e86d9810bd4d65339be056227bc4983aaf9b7a of that repository.
+    - The ``SW-DORT-Research-Code`` repository can be found at https://github.com/mich-lee/SW-DORT-Research-Code/ .  Make sure to use Commit 09e86d9810bd4d65339be056227bc4983aaf9b7a of that repository as that corresponds to what was used in this thesis.
     - The ``SW-DORT-Research-Code`` repository requires the repository at https://github.com/mich-lee/holofork
       - Download ``holofork`` repository (specifically Commit a27e3fe6990e81a4642bae3e6511e9d6385620e1 of https://github.com/mich-lee/holofork) and have it as the ``holotorch-lib`` folder in the downloaded ``SW-DORT-Research-Code`` repository
     - The ``THESIS EXPERIMENTS`` folder in the ``SW-DORT-Research-Code`` repository contains code that I used to generate and analyze data for the experiment in the "Imaging Through Aberrating Media Simulation" chapter of my thesis
