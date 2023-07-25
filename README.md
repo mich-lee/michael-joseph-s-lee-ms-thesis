@@ -23,9 +23,9 @@ This is a repository for Michael Joseph S. Lee's master's thesis.
   - **``Conference Presentation/COSI 2023 Presentation (Smaller Size).mp4``** - A video of my COSI 2023 paper presentation
   - **``Conference Presentation/COSI 2023 Presentation.pptx``** - The PowerPoint presentation for my COSI 2023 paper presentation
     - The presenters notes contain a transcript of what was said during the COSI 2023 paper presentation.
-    - This presentation was derived from my thesis defense presentation at **``Thesis Defense Presentation/Thesis Defense Presentation.pptx``**.  Media files for my **``Conference Presentation/COSI 2023 Presentation.pptx``** presentation can be found in **``Thesis Defense Presentation/Media``**.
+    - This presentation was derived from my thesis defense presentation at **``Thesis Defense Presentation/Thesis Defense Presentation.pptx``**.  Media files for my **``Conference Presentation/COSI 2023 Presentation.pptx``** presentation can be found in **``Thesis Defense Presentation/Media/``**.
 - **``Thesis Defense Presentation/``** - Contains my thesis defense presentation
   - **``Thesis Defense Presentation/Thesis Defense Presentation.pptx``** - The PowerPoint presentation for my thesis defense presentation
     - The presenters notes contain a transcript of what was said during my thesis defense presentation.
-    - Media files for my **``Thesis Defense Presentation/Thesis Defense Presentation.pptx``** presentation can be found in **``Thesis Defense Presentation/Media``**.
-  - **``Thesis Defense Presentation/Media``** - Contains media files for my **``Thesis Defense Presentation/Thesis Defense Presentation.pptx``** presentation
+    - Media files for my **``Thesis Defense Presentation/Thesis Defense Presentation.pptx``** presentation can be found in **``Thesis Defense Presentation/Media/``**.
+  - **``Thesis Defense Presentation/Media/``** - Contains media files for my **``Thesis Defense Presentation/Thesis Defense Presentation.pptx``** presentation
