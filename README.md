@@ -6,6 +6,7 @@ This is a repository for Michael Joseph S. Lee's master's thesis.
 ***Note that this repository by itself does not contain everything—some code is contained in other repositories.  See the "Contents" section of this README for more details.***
 
 ## Contents
+- **``MJSL Thesis Final Draft 7-23-2023.pdf``** - A PDF of my master's thesis
 - **``Code/``** - Contains the code I used in my thesis
   - **``Code/DORT Background/``** - Contains the MATLAB scripts that I used to make the figures demonstrating DORT in the "DORT Background" chapter of my thesis
   - **``Code/MATLAB Simulations/``** - Contains the MATLAB scripts that I used to do the experiments in the "MATLAB Simulations" chapter of my thesis
