@@ -28,3 +28,4 @@ This is a repository for Michael Joseph S. Lee's master's thesis.
   - **``Thesis Defense Presentation/Thesis Defense Presentation.pptx``** - The PowerPoint presentation for my thesis defense presentation
     - The presenters notes contain a transcript of what was said during my thesis defense presentation.
     - Media files for my **``Thesis Defense Presentation/Thesis Defense Presentation.pptx``** presentation can be found in **``Thesis Defense Presentation/Media``**.
+  - **``Thesis Defense Presentation/Media``** - Contains media files for my **``Thesis Defense Presentation/Thesis Defense Presentation.pptx``** presentation
