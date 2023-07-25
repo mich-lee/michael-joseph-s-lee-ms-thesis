@@ -1,0 +1,154 @@
+<mxfile host="Electron" modified="2023-04-18T00:45:29.160Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.1.2 Chrome/106.0.5249.199 Electron/21.4.3 Safari/537.36" etag="6uFZRxgc2a_jwtGE8_qA" version="21.1.2" type="device">
+  <diagram name="Page-1" id="sMj4cmjDTgviVcXSg5yK">
+    <mxGraphModel dx="1948" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bun_oI4DhxqceZ6zfF4b-131" value="$$\vec{\mathbf{Y}}(\lambda) = \mathbf{H}(\lambda) \vec{\mathbf{X}}(\lambda)$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=28;" parent="1" vertex="1">
+          <mxGeometry x="-165" y="415" width="1010" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bun_oI4DhxqceZ6zfF4b-122" value="$$\vec{\mathbf{Y}}(\lambda) = \vec{\mathbf{U}}_{sensor}(\lambda)$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="-290" y="450" width="750" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bun_oI4DhxqceZ6zfF4b-84" value="$$\;\;\mathbf{H}(\lambda)$$" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=40;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="220" y="130" width="280" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="bun_oI4DhxqceZ6zfF4b-121" value="Sensor Plane" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=40;" parent="1" vertex="1">
+          <mxGeometry x="70" y="70" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bun_oI4DhxqceZ6zfF4b-124" value="" style="endArrow=none;html=1;rounded=0;fontSize=16;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="30" y="230" as="sourcePoint" />
+            <mxPoint x="190" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bun_oI4DhxqceZ6zfF4b-126" value="" style="endArrow=none;html=1;rounded=0;fontSize=16;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="30" y="380" as="sourcePoint" />
+            <mxPoint x="80" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bun_oI4DhxqceZ6zfF4b-120" value="$$\vec{\mathbf{U}}_{slm}(\lambda) = \vec{\mathbf{X}}(\lambda)$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="240" y="450" width="720" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bun_oI4DhxqceZ6zfF4b-129" value="" style="endArrow=none;html=1;rounded=0;fontSize=16;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="119.99999999999989" as="sourcePoint" />
+            <mxPoint x="710" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bun_oI4DhxqceZ6zfF4b-130" value="" style="endArrow=none;html=1;rounded=0;fontSize=16;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="439.9999999999999" as="sourcePoint" />
+            <mxPoint x="710" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bun_oI4DhxqceZ6zfF4b-3" value="$$Y_1(\lambda)$$" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=30;rotation=90;flipH=1;horizontal=0;fontSize=10;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="65" y="385" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bun_oI4DhxqceZ6zfF4b-37" value="..." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=30;rotation=90;flipH=1;horizontal=0;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="65" y="335" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bun_oI4DhxqceZ6zfF4b-41" value="..." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=30;rotation=90;flipH=1;horizontal=0;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="65" y="285" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bun_oI4DhxqceZ6zfF4b-45" value="..." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=30;rotation=90;flipH=1;horizontal=0;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="65" y="235" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bun_oI4DhxqceZ6zfF4b-71" value="$$Y_2(\lambda)$$" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=30;rotation=90;flipH=1;horizontal=0;fontSize=10;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="95" y="355" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bun_oI4DhxqceZ6zfF4b-72" value="..." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=30;rotation=90;flipH=1;horizontal=0;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="95" y="305" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bun_oI4DhxqceZ6zfF4b-73" value="..." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=30;rotation=90;flipH=1;horizontal=0;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="95" y="255" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bun_oI4DhxqceZ6zfF4b-74" value="..." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=30;rotation=90;flipH=1;horizontal=0;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="95" y="205" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bun_oI4DhxqceZ6zfF4b-75" value="$$Y_3(\lambda)$$" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=30;rotation=90;flipH=1;horizontal=0;fontSize=10;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="125" y="325" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bun_oI4DhxqceZ6zfF4b-76" value="..." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=30;rotation=90;flipH=1;horizontal=0;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="125" y="275" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bun_oI4DhxqceZ6zfF4b-77" value="..." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=30;rotation=90;flipH=1;horizontal=0;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="125" y="225" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bun_oI4DhxqceZ6zfF4b-78" value="..." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=30;rotation=90;flipH=1;horizontal=0;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="125" y="175" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bun_oI4DhxqceZ6zfF4b-79" value="..." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=30;rotation=90;flipH=1;horizontal=0;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="155" y="295" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bun_oI4DhxqceZ6zfF4b-80" value="..." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=30;rotation=90;flipH=1;horizontal=0;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="155" y="245" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bun_oI4DhxqceZ6zfF4b-81" value="..." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=30;rotation=90;flipH=1;horizontal=0;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="155" y="195" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bun_oI4DhxqceZ6zfF4b-82" value="$$Y_N(\lambda)$$" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=30;rotation=90;flipH=1;horizontal=0;fontSize=10;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="155" y="145" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bun_oI4DhxqceZ6zfF4b-119" value="SLM Plane" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=40;" parent="1" vertex="1">
+          <mxGeometry x="540" y="70" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bun_oI4DhxqceZ6zfF4b-127" value="$$\vec{\mathbf{Y}}(\lambda) = \begin{bmatrix}Y_1(\lambda) \\Y_2(\lambda) \\ \vdots \\ Y_N(\lambda)\end{bmatrix}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="-595" y="285" width="1050" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bun_oI4DhxqceZ6zfF4b-103" value="$$X_1(\lambda)$$" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=30;rotation=90;flipH=1;horizontal=0;fontSize=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="495" y="385" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bun_oI4DhxqceZ6zfF4b-104" value="..." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=30;rotation=90;flipH=1;horizontal=0;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="495" y="335" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bun_oI4DhxqceZ6zfF4b-105" value="..." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=30;rotation=90;flipH=1;horizontal=0;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="495" y="285" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bun_oI4DhxqceZ6zfF4b-106" value="..." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=30;rotation=90;flipH=1;horizontal=0;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="495" y="235" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bun_oI4DhxqceZ6zfF4b-107" value="$$X_2(\lambda)$$" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=30;rotation=90;flipH=1;horizontal=0;fontSize=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="525" y="355" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bun_oI4DhxqceZ6zfF4b-108" value="..." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=30;rotation=90;flipH=1;horizontal=0;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="525" y="305" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bun_oI4DhxqceZ6zfF4b-109" value="..." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=30;rotation=90;flipH=1;horizontal=0;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="525" y="255" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bun_oI4DhxqceZ6zfF4b-111" value="$$X_3(\lambda)$$" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=30;rotation=90;flipH=1;horizontal=0;fontSize=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="555" y="325" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bun_oI4DhxqceZ6zfF4b-112" value="..." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=30;rotation=90;flipH=1;horizontal=0;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="555" y="275" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bun_oI4DhxqceZ6zfF4b-113" value="..." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=30;rotation=90;flipH=1;horizontal=0;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="555" y="225" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bun_oI4DhxqceZ6zfF4b-115" value="..." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=30;rotation=90;flipH=1;horizontal=0;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="585" y="295" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bun_oI4DhxqceZ6zfF4b-116" value="..." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=30;rotation=90;flipH=1;horizontal=0;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="585" y="245" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bun_oI4DhxqceZ6zfF4b-117" value="..." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=30;rotation=90;flipH=1;horizontal=0;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="585" y="195" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bun_oI4DhxqceZ6zfF4b-114" value="..." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=30;rotation=90;flipH=1;horizontal=0;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="555" y="175" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bun_oI4DhxqceZ6zfF4b-110" value="..." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=30;rotation=90;flipH=1;horizontal=0;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="525" y="205" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bun_oI4DhxqceZ6zfF4b-123" value="$$\begin{bmatrix}X_1(\lambda) \\X_2 (\lambda)\\ \vdots \\ X_N(\lambda)\end{bmatrix} = \vec{\mathbf{X}}(\lambda)$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="285" y="265" width="1050" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bun_oI4DhxqceZ6zfF4b-118" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;$$X_N(\lambda)$$&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=30;rotation=90;flipH=1;horizontal=0;fontSize=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="585" y="145" width="80" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
